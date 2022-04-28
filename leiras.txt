@@ -1,1 +1,2 @@
 Thu Apr 28 10:02:36     2022
+A program 1 és 100 között generál véletlenszámot.
